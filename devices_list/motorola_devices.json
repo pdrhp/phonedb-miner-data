@@ -2452,5 +2452,35 @@
         "name": "Motorola Moto G8 Optimo Maxx TD-LTE US XT2041DL / G8 Power  (Motorola Sofia)",
         "url": "https://phonedb.net/index.php?m=device&id=16521&c=motorola_moto_g8_optimo_maxx_td-lte_us_xt2041dl__g8_power__motorola_sofia",
         "brand": "Motorola"
+    },
+    {
+        "id": "24521",
+        "name": "Motorola Moto E14 NFC 2024 Global Dual SIM TD-LTE 64GB XT2421-15  (Motorola LionL)",
+        "url": "https://phonedb.net/index.php?m=device&id=24521&c=motorola_moto_e14_nfc_2024_global_dual_sim_td-lte_64gb_xt2421-15__motorola_lionl",
+        "brand": "Motorola"
+    },
+    {
+        "id": "24522",
+        "name": "Motorola Moto E14 2024 TD-LTE LATAM 64GB XT2421-12  (Motorola LionL)",
+        "url": "https://phonedb.net/index.php?m=device&id=24522&c=motorola_moto_e14_2024_td-lte_latam_64gb_xt2421-12__motorola_lionl",
+        "brand": "Motorola"
+    },
+    {
+        "id": "24520",
+        "name": "Motorola Moto E14 NFC 2024 Global TD-LTE 64GB XT2421-15  (Motorola LionL)",
+        "url": "https://phonedb.net/index.php?m=device&id=24520&c=motorola_moto_e14_nfc_2024_global_td-lte_64gb_xt2421-15__motorola_lionl",
+        "brand": "Motorola"
+    },
+    {
+        "id": "24519",
+        "name": "Motorola Moto E14 2024 Dual SIM TD-LTE MEA 64GB XT2421-14  (Motorola LionL)",
+        "url": "https://phonedb.net/index.php?m=device&id=24519&c=motorola_moto_e14_2024_dual_sim_td-lte_mea_64gb_xt2421-14__motorola_lionl",
+        "brand": "Motorola"
+    },
+    {
+        "id": "24518",
+        "name": "Motorola Moto E14 2024 Global Dual SIM TD-LTE 64GB XT2421-13  (Motorola LionL)",
+        "url": "https://phonedb.net/index.php?m=device&id=24518&c=motorola_moto_e14_2024_global_dual_sim_td-lte_64gb_xt2421-13__motorola_lionl",
+        "brand": "Motorola"
     }
 ]
