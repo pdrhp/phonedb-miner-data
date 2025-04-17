@@ -8218,5 +8218,23 @@
         "name": "Samsung SM-A515U Galaxy A51 2019 TD-LTE US 128GB / SM-A515P  (Samsung A515)",
         "url": "https://phonedb.net/index.php?m=device&id=16418&c=samsung_sm-a515u_galaxy_a51_2019_td-lte_us_128gb__sm-a515p__samsung_a515",
         "brand": "Samsung"
+    },
+    {
+        "id": "24552",
+        "name": "Samsung SM-G990B2/DS Galaxy S21 FE 5G Global Dual SIM TD-LTE 128GB  (Samsung G990)",
+        "url": "https://phonedb.net/index.php?m=device&id=24552&c=samsung_sm-g990b2ds_galaxy_s21_fe_5g_global_dual_sim_td-lte_128gb__samsung_g990",
+        "brand": "Samsung"
+    },
+    {
+        "id": "24551",
+        "name": "Samsung SM-A226BR/N Galaxy A22 5G 2021 TD-LTE LATAM 128GB  (Samsung A226)",
+        "url": "https://phonedb.net/index.php?m=device&id=24551&c=samsung_sm-a226brn_galaxy_a22_5g_2021_td-lte_latam_128gb__samsung_a226",
+        "brand": "Samsung"
+    },
+    {
+        "id": "24550",
+        "name": "Samsung SM-A226BR/DSN Galaxy A22 5G 2021 Dual SIM TD-LTE LATAM 128GB  (Samsung A226)",
+        "url": "https://phonedb.net/index.php?m=device&id=24550&c=samsung_sm-a226brdsn_galaxy_a22_5g_2021_dual_sim_td-lte_latam_128gb__samsung_a226",
+        "brand": "Samsung"
     }
 ]
