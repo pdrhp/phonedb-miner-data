@@ -8698,5 +8698,17 @@
         "name": "Samsung SM-A166P Galaxy A16 5G 2024 Standard Edition Global TD-LTE 128GB  (Samsung A166P)",
         "url": "https://phonedb.net/index.php?m=device&id=24683&c=samsung_sm-a166p_galaxy_a16_5g_2024_standard_edition_global_td-lte_128gb__samsung_a166p",
         "brand": "Samsung"
+    },
+    {
+        "id": "24724",
+        "name": "Samsung SM-A065F/DS Galaxy A06 2024 Standard Edition Global Dual SIM TD-LTE 128GB  (Samsung A065)",
+        "url": "https://phonedb.net/index.php?m=device&id=24724&c=samsung_sm-a065fds_galaxy_a06_2024_standard_edition_global_dual_sim_td-lte_128gb__samsung_a065",
+        "brand": "Samsung"
+    },
+    {
+        "id": "24722",
+        "name": "Samsung SM-A065F/DS Galaxy A06 2024 Standard Edition Global Dual SIM TD-LTE 64GB  (Samsung A065)",
+        "url": "https://phonedb.net/index.php?m=device&id=24722&c=samsung_sm-a065fds_galaxy_a06_2024_standard_edition_global_dual_sim_td-lte_64gb__samsung_a065",
+        "brand": "Samsung"
     }
 ]
