@@ -8710,5 +8710,35 @@
         "name": "Samsung SM-A065F/DS Galaxy A06 2024 Standard Edition Global Dual SIM TD-LTE 64GB  (Samsung A065)",
         "url": "https://phonedb.net/index.php?m=device&id=24722&c=samsung_sm-a065fds_galaxy_a06_2024_standard_edition_global_dual_sim_td-lte_64gb__samsung_a065",
         "brand": "Samsung"
+    },
+    {
+        "id": "24728",
+        "name": "Samsung SM-A065M Galaxy A06 4G 2024 Standard Edition TD-LTE LATAM 64GB  (Samsung A065)",
+        "url": "https://phonedb.net/index.php?m=device&id=24728&c=samsung_sm-a065m_galaxy_a06_4g_2024_standard_edition_td-lte_latam_64gb__samsung_a065",
+        "brand": "Samsung"
+    },
+    {
+        "id": "24723",
+        "name": "Samsung SM-A065M/DS Galaxy A06 4G 2024 Standard Edition Dual SIM TD-LTE LATAM 64GB  (Samsung A065)",
+        "url": "https://phonedb.net/index.php?m=device&id=24723&c=samsung_sm-a065mds_galaxy_a06_4g_2024_standard_edition_dual_sim_td-lte_latam_64gb__samsung_a065",
+        "brand": "Samsung"
+    },
+    {
+        "id": "24727",
+        "name": "Samsung SM-A065M Galaxy A06 4G 2024 Standard Edition TD-LTE LATAM 128GB  (Samsung A065)",
+        "url": "https://phonedb.net/index.php?m=device&id=24727&c=samsung_sm-a065m_galaxy_a06_4g_2024_standard_edition_td-lte_latam_128gb__samsung_a065",
+        "brand": "Samsung"
+    },
+    {
+        "id": "24726",
+        "name": "Samsung SM-A065M/DS Galaxy A06 4G 2024 Standard Edition Dual SIM TD-LTE LATAM 128GB  (Samsung A065)",
+        "url": "https://phonedb.net/index.php?m=device&id=24726&c=samsung_sm-a065mds_galaxy_a06_4g_2024_standard_edition_dual_sim_td-lte_latam_128gb__samsung_a065",
+        "brand": "Samsung"
+    },
+    {
+        "id": "24725",
+        "name": "Samsung SM-A065F/DS Galaxy A06 4G 2024 Premium Edition Global Dual SIM TD-LTE 128GB  (Samsung A065)",
+        "url": "https://phonedb.net/index.php?m=device&id=24725&c=samsung_sm-a065fds_galaxy_a06_4g_2024_premium_edition_global_dual_sim_td-lte_128gb__samsung_a065",
+        "brand": "Samsung"
     }
 ]
